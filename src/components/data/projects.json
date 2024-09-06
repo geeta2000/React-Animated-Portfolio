@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "title": "Enroute",
+    "imageSrc": "project/project1.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://codsoft-level2-task2-main-one.vercel.app/",
+    "source": "https://github.com/geeta2000/Codsoft_Level2Task2-main"
+  },
+  {
+    "key": 2,
+    "title": "Weather App",
+    "imageSrc": "project/project2.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://weather-web-app-ten-tawny.vercel.app/",
+    "source": "https://github.com/geeta2000/Weather_webApp"
+  }
+]
